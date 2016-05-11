@@ -1,0 +1,28 @@
+name: ecomantra
+favicon: null
+layout_spectrum: 0.7667177573312074
+typography_spectrum: 0.8497777495067567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6942316668573767
+  lightness: 0.18492227979004383
+  saturation: 0.3214047150686383
+  rhythmicContrast: 0.8184833561535925
+purpose: []
